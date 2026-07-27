@@ -1,0 +1,6 @@
+{
+  "name": "High School Roadmap & College Prep Planner",
+  "description": "Comprehensive four-year high school journey planner tracking GPA, SAT/ACT, AP classes, sports, clubs, volunteering, and extracurriculars with AI-powered college readiness suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
